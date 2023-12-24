@@ -1,0 +1,1 @@
+# Analysis-and-Pattern-Detection-in-Industrial-Audio-files
